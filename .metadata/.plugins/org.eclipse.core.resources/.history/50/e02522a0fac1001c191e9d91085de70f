@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="">
+<style>
+.form{text-align: center;}
+</style>
+
+<title>Form Sample</title>
+</head>
+<body>
+	<h2 class="form">Form</h2>
+	<form action="loginPro.jsp" method="post" name="twin">
+        <table>
+            <tr>
+                <td width="100">이름:</td>
+                <td width="200"><input type="text" name="name"></td>
+            </tr>
+            <tr>
+            	<td>아이디:
+            	<td><input type="text" name="uid"></td>
+            </tr>
+            <tr>
+            	<td>패스워드:
+            	<td><input type="password" name="upw"></td>
+            </tr><tr>
+            	<td>주소:
+            	<td><input type="text" name="adrr"></td>
+            </tr><tr>
+            	<td>주문수량:
+            </tr><tr>
+            	<td>E-Mail:
+            </tr><tr>
+            	<td>URL::
+            </tr>
+        </table>    
+        
+
+
+
+</body>
+</html>
