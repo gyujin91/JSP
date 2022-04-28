@@ -4,3 +4,11 @@
 1650809267658	Move 7 resources to 'webapp'
 1650986119044	Delete elements
 1650986497833	Move 'mariadb-java-client-3.0.4.jar' to 'java'
+1651133485775	Rename resource 'connectPool.jsp'
+1651133506283	Rename resource 'connectClose.jsp'
+1651133528221	Rename resource 'connectPool.conf'
+1651134762047	Rename resource 'connectPool.jsp'
+1651160990356	Delete element
+1651160998101	Delete element
+1651161080856	Rename resource '976a64bd51fc52a73f056cf2a40bab97.png'
+1651161491706	Delete element
