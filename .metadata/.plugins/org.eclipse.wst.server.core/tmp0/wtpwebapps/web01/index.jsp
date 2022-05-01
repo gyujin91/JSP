@@ -17,7 +17,7 @@
 #hd .hd_wrap { }
 .content { min-height:90vh; }
 .logo { display:block; width:180px; padding-top:8px; }
-.logo img { display:block; width:100%; }
+.logo img { display:block; width:80px; height:80px; }
 #tnb a { padding-left:20px;	 }
 
 </style>
